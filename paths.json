@@ -1,6 +1,8 @@
 {
   "mappings": [
-    "/content/ralphlauren/:/"
+    "/content/ralphlauren/:/",
+    "/content/ralphlauren/configuration:/.helix/config.json",
+    "/content/ralphlauren/metadata:/metadata.json",
   ],
   "includes": [
     "/content/ralphlauren/"
